@@ -18,3 +18,6 @@ More text
 
 More text
 More text later
+
+### Copyright
+2018 Git Training
